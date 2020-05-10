@@ -1,3 +1,18 @@
+# Build settings
+markdown: kramdown
+Conectamos: pretty
+
+lsi: false
+safe: true
+source: /
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 url: https://y7kim.github.io
 baseurl: ""
 
@@ -81,7 +96,3 @@ social:
 address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
-
-# Build settings
-markdown: kramdown
-Conectamos: pretty
