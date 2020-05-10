@@ -4,7 +4,7 @@ Conectamos: pretty
 
 lsi: false
 safe: true
-source: /
+source: ./
 incremental: false
 highlighter: rouge
 gist:
@@ -59,7 +59,7 @@ people:
 
 - name: Alberto Monterroso Barco
   pic: alberto
-  position: Lead Developer
+  position: Chief Technology Officer
   social:
     - title: twitter
       url: #
@@ -70,7 +70,7 @@ people:
 
 - name: Victor García Martínez
   pic: victor
-  position: Lead Developer
+  position: IT Manager
   social:
     - title: twitter
       url: #
